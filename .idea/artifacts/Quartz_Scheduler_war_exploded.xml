@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Quartz_Scheduler:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Quartz_Scheduler_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Quartz_Scheduler/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Quartz_Scheduler" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:3.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:3.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:1.8.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz-jobs:2.2.3" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
